@@ -1,6 +1,7 @@
 use crate::domain::{Datastore, DatastoreConnectError, Details};
 use env_utils::libraries::dotenvy::var;
 use crate::builders::DetailsBuilder;
+#[allow(unused_imports)]
 use crate::infrastructure;
 
 impl Details {

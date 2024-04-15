@@ -1,4 +1,6 @@
+#[allow(unused_imports)]
 use crate::domain::{Datastore, DatastoreConnectError};
+#[allow(unused_imports)]
 use crate::infrastructure;
 
 impl Datastore {
