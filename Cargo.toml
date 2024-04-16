@@ -1,6 +1,6 @@
 [package]
 name = "datastore_connect"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Christopher Stocks <christopher.b.stocks@gmail.com>"]
 description = "A tokio-based rust library to enable easy connections to a variety of datastores."
 readme = "README.md"
